@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying at ANU
+**CLick here to visit** [my personal blog](https://whitemasky.github.io/)
+
+- 🔭 I’m currently a student
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
