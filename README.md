@@ -8,14 +8,11 @@ Here are some ideas to get you started:
 
 **CLick here to visit** [my personal blog](https://whitemasky.github.io/)
 
-- 🔭 I’m currently a student
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [whitemasky@email.com](mailto:whitemasky@email.com)  
+- 🔭 I’m currently working at Alibaba Cloud
+- 🌱 I’m interested in AI and Cloud Computing
+- 💬 Ask me about anything you want
+- 📫 How to reach me(Not available): [whitemasky@email.com](mailto:whitemasky@email.com)  
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: ...
 
 ### 🌟 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whitemasky&show_icons=true&theme=tokyonight)
