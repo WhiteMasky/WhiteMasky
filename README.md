@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 **CLick here to visit** [my personal blog](https://whitemasky.github.io/)
 
-- 🔭 I’m currently working at Alibaba Cloud
 - 🌱 I’m interested in AI and Cloud Computing
 - 💬 Ask me about anything you want
 - 📫 How to reach me(Not available): [whitemasky@email.com](mailto:whitemasky@email.com)  
